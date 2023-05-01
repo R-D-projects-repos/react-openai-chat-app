@@ -12,8 +12,8 @@ https://api.openai.com/v1/completions
 
 **Refrences**
 
-Create Your Own OpenAI Powered Chatbot in React within 30 minutes.
+Create Your Own OpenAI Powered Chatbot in React within 30 minutes.<br/>
 https://itnext.io/create-your-own-openai-powered-chatbot-in-react-within-30-minutes-b6be60067f04
 
-How to use OpenAI with React
+How to use OpenAI with React<br/>
 https://javascriptcentric.medium.com/how-to-use-openai-with-react-212d7d632854

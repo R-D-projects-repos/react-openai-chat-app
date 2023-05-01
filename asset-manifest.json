@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-openai-chat-app/static/css/main.073c9b0a.css",
+    "main.js": "/react-openai-chat-app/static/js/main.84f397dc.js",
+    "static/js/787.05170de4.chunk.js": "/react-openai-chat-app/static/js/787.05170de4.chunk.js",
+    "index.html": "/react-openai-chat-app/index.html",
+    "main.073c9b0a.css.map": "/react-openai-chat-app/static/css/main.073c9b0a.css.map",
+    "main.84f397dc.js.map": "/react-openai-chat-app/static/js/main.84f397dc.js.map",
+    "787.05170de4.chunk.js.map": "/react-openai-chat-app/static/js/787.05170de4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.84f397dc.js"
+  ]
+}
